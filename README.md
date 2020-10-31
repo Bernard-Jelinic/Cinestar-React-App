@@ -9,8 +9,8 @@ Clone the repo in your terminal by clicking the green clone or download button a
 
 In your terminal, type git clone URL
 
-replace URL with the URL you copied
-hit enter
+replace URL with the URL you copied,
+hit enter,
 This will copy all the files from this repo down to your computer
 
 In your terminal, cd into the directory you just created
